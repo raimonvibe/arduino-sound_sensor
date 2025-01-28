@@ -1,6 +1,6 @@
 # 🔊 Sound Detection with KY-038 Sensor and Arduino
 
-![Sound Sensor](sound_sensor.JPG)
+![Sound Sensor](./sound_sensor.JPG)
 
 ## 📜 Overview
 This project uses a **KY-038 Sound Sensor Module** with an **Arduino** to detect sudden sound changes and trigger an action (LED ON). It reads the **analog sound level**, compares it to a baseline noise level, and activates an LED if the noise exceeds a threshold.  
